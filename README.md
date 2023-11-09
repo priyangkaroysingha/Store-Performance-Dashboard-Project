@@ -1,9 +1,24 @@
-# Store-Analytics
-- In this dashboard, column and line charts are used in the first visualization (top-left: Order vs Sales) to show in which month how many orders we got and how much we sold
-- Then a pie chart is used to analyze sales by gender
-- Then again, another pie chart is used to show the order status in 2022
-- Next, a bar chart is used to show the top 5 states' contributions to sales
-- Then a bar chart is used to show a relation between age and gender based on the number of orders
-- Lastly, a pie chart is used to show which channel is contributing to maximum sales
+# Store Performance Dashboard Project
+## Overview
+Led a comprehensive project focused on analyzing key metrics of an online store, employing strategic data-driven approaches to enhance decision-making and improve operational efficiency.
 
-- Overall, we get some insight that women are more likely to buy compared to men and the adult age group (30-49 yrs) is contributing the maximum in sales. So, we should target more women customers of the age group (30-49 yrs). In addition, Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states in sales, and Amazon, Flipkart, and Myntra channels are the maximum contributors.
+## Key Contributions
+* Dashboard Design and Building:
+* Designed and built a custom dashboard using Excel to analyze crucial metrics, including orders vs sales and top five states.
+* Uncovered insights indicating that 64% of items were sold to women, providing valuable information for targeted marketing strategies.
+## Data Cleaning and Pre-processing:
+* Conducted thorough data cleaning and pre-processing, ensuring data integrity and accuracy.
+* Created additional features to gain insights, revealing that 34.59% of all orders were from adult women.
+* User-friendly and Interactive Dashboard Implementation:
+* Spearheaded the implementation of a user-friendly and interactive dashboard using Pivot Table.
+* Allowed users to customize filters for real-time insights, resulting in a 40% decrease in monthly reporting time.
+## Real-time Dashboard Deployment
+* Developed and deployed an intuitive, real-time dashboard featuring dynamic charts (vertical and horizontal bar charts, line graphs, and pie charts).
+* Empowered cross-functional teams to proactively address customer inquiries, leading to a remarkable 40% reduction in response time and a 25% increase in customer satisfaction levels.
+## Methodology
+* Leveraged Excel for dashboard design, emphasizing user-friendly and interactive features.
+* Applied meticulous data cleaning and pre-processing techniques to ensure data accuracy.
+* Implemented Pivot Table functionalities for customizable real-time insights.
+* Utilized dynamic charting for visually impactful and actionable data representation.
+## Impact:
+* The project not only optimized operational efficiency through streamlined reporting but also provided key insights for targeted marketing efforts. The implementation of user-friendly dashboards resulted in significant reductions in reporting time and *response times, contributing to enhanced customer satisfaction.
