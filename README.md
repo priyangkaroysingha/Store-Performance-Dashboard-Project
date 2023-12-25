@@ -1,6 +1,6 @@
 # Store Performance Dashboard Project
 ## Overview
-Led a comprehensive project focused on analyzing key metrics of an online store, employing strategic data-driven approaches to increase decision-making and improve operational efficiency.
+Led a comprehensive project focused on analyzing key metrics of an online store, employing strategic data-driven approaches to enhance decision-making and improve operational efficiency.
 
 ## Key Contributions
 * Dashboard Design and Building:
