@@ -1,7 +1,6 @@
 # Store Performance Dashboard Project
 ## Overview
 Led a comprehensive project focused on analyzing key metrics of an online store, employing strategic data-driven approaches to enhance decision-making and improve operational efficiency.
-
 ## Key Contributions
 * Dashboard Design and Building:
 * Designed and built a custom dashboard using Excel to analyze crucial metrics, including orders vs sales and top five states.
@@ -22,3 +21,20 @@ Led a comprehensive project focused on analyzing key metrics of an online store,
 * Utilized dynamic charting for visually impactful and actionable data representation.
 ## Impact:
 * The project not only optimized operational efficiency through streamlined reporting but also provided key insights for targeted marketing efforts. The implementation of user-friendly dashboards resulted in significant reductions in reporting time and *response times, contributing to enhanced customer satisfaction.
+## Workbook Preview
+![image](https://github.com/priyangkaroysingha/Store-Performance-Dashboard-Project/assets/133033148/efb4dc23-f5f7-49fa-be72-0f6cbb9789c3)
+## Ideas for further improvement
+* Advanced User Segmentation:
+  * Explore deeper segmentation beyond gender.
+  * Target specific demographics for more personalized strategies.
+* Predictive Analytics for Trends:
+  * Implement predictive analytics for anticipating future trends.
+  * Stay ahead of customer preferences and market changes.
+* Automated Customer Interactions:
+  * Introduce automated responses for common inquiries.
+  * Use AI to enhance customer interactions and support.
+* Integration of External Data:
+  * Incorporate external data sources for richer insights.
+  * Enhance decision-making with a broader context.
+
+
